@@ -1,4 +1,4 @@
-package com.timbuchalka;
+package com.example.game;
 
 import java.util.List;
 

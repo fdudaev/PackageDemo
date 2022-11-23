@@ -1,4 +1,4 @@
-package com.example;
+package com.example.game;
 
 import com.example.game.ISaveable;
 import com.example.game.Monster;
